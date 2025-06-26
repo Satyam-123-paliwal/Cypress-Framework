@@ -1,0 +1,12 @@
+{
+    "partner": {
+        "url": "https://fl-01-ymen-shared-ui-cin-test.azurewebsites.net/",
+        "username": "ram@yopmail.com",
+       "password":"Ram1234@"
+    },
+    "vendor": {
+        "url": "https://fl-01-ymen-shared-ui-cin-test.azurewebsites.net/",
+        "username": "anshpaliwal.900@gmail.com",
+       "password":"Ansh123@"
+    }
+}
