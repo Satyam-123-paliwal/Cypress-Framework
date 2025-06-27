@@ -1,1 +1,4 @@
 node_modules
+# Ignore Cypress test output
+cypress/reports/
+cypress/videos/
