@@ -312,6 +312,8 @@
     "mocha": "^11.5.0"
   },
   "scripts": {
+    "cypressopen": "cypress open",
+    "cypressrun": "cypress run",
     "test": "mocha"
   },
   "author": "yash",
