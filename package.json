@@ -309,12 +309,15 @@
     "allure-commandline": "^2.34.0",
     "cypress": "^14.4.1",
     "cypress-iframe": "^1.0.1",
-    "mocha": "^11.5.0"
+    "mocha": "^11.5.0",
+    "serve": "^14.2.4"
   },
   "scripts": {
     "cypressopen": "cypress open",
     "cypressrun": "cypress run",
-    "test": "mocha"
+    "test": "mocha",
+    "serve": "serve app -l 3000",
+    "build": "react-scripts build"
   },
   "author": "yash",
   "license": "ISC"
